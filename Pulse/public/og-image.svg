@@ -1,0 +1,22 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#050507"/>
+  <circle cx="260" cy="120" r="280" fill="#8B5CF6" fill-opacity="0.28"/>
+  <circle cx="930" cy="220" r="300" fill="#22D3EE" fill-opacity="0.18"/>
+  <circle cx="640" cy="590" r="360" fill="#F472B6" fill-opacity="0.16"/>
+  <rect x="72" y="72" width="1056" height="486" rx="48" fill="white" fill-opacity="0.055" stroke="white" stroke-opacity="0.12"/>
+  <rect x="116" y="116" width="72" height="72" rx="22" fill="url(#mark)"/>
+  <path d="M139 166V138h16.1c8.96 0 14.7 5.32 14.7 13.16 0 7.98-5.74 13.44-14.7 13.44h-6.3v1.4H139Zm9.8-9.8h5.74c3.36 0 5.46-1.96 5.46-5.04 0-2.94-2.1-4.9-5.46-4.9h-5.74v9.94Z" fill="white"/>
+  <text x="212" y="164" fill="white" font-family="Inter, Arial, sans-serif" font-size="42" font-weight="750" letter-spacing="-2">Pulse</text>
+  <text x="116" y="300" fill="white" font-family="Inter, Arial, sans-serif" font-size="74" font-weight="800" letter-spacing="-5">Feel Every Beat.</text>
+  <text x="116" y="374" fill="white" font-family="Inter, Arial, sans-serif" font-size="74" font-weight="800" letter-spacing="-5">Live Every Moment.</text>
+  <text x="120" y="438" fill="#B5B6C4" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500">AI playlists, spatial audio, lossless streaming, and beautiful interactions.</text>
+  <rect x="120" y="480" width="214" height="56" rx="28" fill="white"/>
+  <text x="156" y="516" fill="#050507" font-family="Inter, Arial, sans-serif" font-size="20" font-weight="700">Join the beta</text>
+  <defs>
+    <linearGradient id="mark" x1="116" y1="116" x2="188" y2="188" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#8B5CF6"/>
+      <stop offset="0.52" stop-color="#F472B6"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+</svg>

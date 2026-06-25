@@ -1,0 +1,31 @@
+:root {
+  color-scheme: dark;
+
+  --color-background: 5 5 7;
+  --color-foreground: 247 247 250;
+  --color-surface: 11 11 16;
+  --color-surface-elevated: 18 18 26;
+  --color-muted: 181 182 196;
+  --color-border: 255 255 255;
+
+  --color-brand-violet: 139 92 246;
+  --color-brand-electric: 34 211 238;
+  --color-brand-pink: 244 114 182;
+  --color-brand-lime: 163 230 53;
+  --color-brand-orange: 251 146 60;
+
+  --surface-glass: rgb(255 255 255 / 0.06);
+  --border-default: rgb(255 255 255 / 0.1);
+  --border-strong: rgb(255 255 255 / 0.18);
+
+  --ease-standard: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-entrance: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-exit: cubic-bezier(0.7, 0, 0.84, 0);
+
+  --duration-fast: 180ms;
+  --duration-base: 280ms;
+  --duration-slow: 550ms;
+  --duration-reveal: 750ms;
+
+  --header-height: 4.5rem;
+}

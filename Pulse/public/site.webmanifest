@@ -1,0 +1,23 @@
+{
+  "name": "Pulse — AI Music Streaming Platform",
+  "short_name": "Pulse",
+  "description": "Experience the future of music with Pulse. Discover AI-powered playlists, immersive spatial audio, lossless streaming, and a beautifully crafted listening experience.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#050507",
+  "theme_color": "#050507",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ]
+}
